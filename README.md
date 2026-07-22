@@ -4,7 +4,7 @@ A drum machine and synthesiser that runs entirely in the browser. Every sound is
 synthesised live with the Web Audio API — no samples, no audio libraries, no
 build step.
 
-**Live:** _(add your Vercel URL here)_
+**Live:** [JC-808](https://jc-808.vercel.app/)
 
 ## What's in it
 
